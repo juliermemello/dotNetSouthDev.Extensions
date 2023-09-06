@@ -15,7 +15,7 @@
     <RepositoryUrl>https://github.com/juliermemello/dotNetSouthDev.Extensions</RepositoryUrl>
     <PackageTags>extensions extension method methods c# .net dotnet</PackageTags>
     <PackageReleaseNotes>Starter pack.</PackageReleaseNotes>
-    <Version>0.0.1</Version>
+    <Version>0.0.2</Version>
     <AssemblyName>dotNetSouthDev.Extensions</AssemblyName>
     <PackageIcon>icon.png</PackageIcon>
     <PublishRepositoryUrl>true</PublishRepositoryUrl>
